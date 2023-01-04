@@ -15,5 +15,5 @@ Final project for DataScience Bootcamp Le Wagon - batch #1039.
 ## Team
 1. [Charles Gérard](https://github.com/charlgd)
 2. [Laura Sevostyanova](https://github.com/SvLaura)
-3. Shafkat Rahman
+3. [Shafkat Rahman](https://github.com/Sakeeb91/)
 4. [Kenley Jean](https://github.com/jkenley)
